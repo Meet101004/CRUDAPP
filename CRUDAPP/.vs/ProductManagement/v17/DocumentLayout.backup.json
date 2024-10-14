@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\ProductManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|d:\\.net\\productmanagement\\productmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|d:\\.net\\productmanagement\\productmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|d:\\.net\\productmanagement\\productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|d:\\.net\\productmanagement\\productmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|d:\\.net\\productmanagement\\productmanagement\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\productmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|d:\\.net\\productmanagement\\productmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|d:\\.net\\productmanagement\\productmanagement\\migrations\\20241010091618_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80456E9F-562D-47A0-A024-A33077DD4C51}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\migrations\\20241010091618_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241010091618_InitialCreate.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductManagement\\ProductManagement\\Migrations\\20241010091618_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Migrations\\20241010091618_InitialCreate.cs",
+              "ToolTip": "D:\\.NET\\ProductManagement\\ProductManagement\\Migrations\\20241010091618_InitialCreate.cs",
+              "RelativeToolTip": "ProductManagement\\Migrations\\20241010091618_InitialCreate.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:16:19.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductManagement\\ProductManagement\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\.NET\\ProductManagement\\ProductManagement\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductManagement\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:03:30.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductManagement\\ProductManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Program.cs",
+              "ToolTip": "D:\\.NET\\ProductManagement\\ProductManagement\\Program.cs",
+              "RelativeToolTip": "ProductManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:01:40.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET\\ProductManagement\\ProductManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagement\\appsettings.json",
+              "ToolTip": "D:\\.NET\\ProductManagement\\ProductManagement\\appsettings.json",
+              "RelativeToolTip": "ProductManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T17:01:20.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductManagement\\ProductManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.NET\\ProductManagement\\ProductManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:59:26.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManagement.csproj",
+              "DocumentMoniker": "D:\\.NET\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+              "RelativeDocumentMoniker": "ProductManagement\\ProductManagement.csproj",
+              "ToolTip": "D:\\.NET\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+              "RelativeToolTip": "ProductManagement\\ProductManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T16:58:56.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.NET\\ProductManagement\\ProductManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Models\\Product.cs",
+              "ToolTip": "D:\\.NET\\ProductManagement\\ProductManagement\\Models\\Product.cs",
+              "RelativeToolTip": "ProductManagement\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:58:06.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
